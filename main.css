@@ -1,0 +1,32 @@
+
+html {
+    font-size: 15px;
+    background-color: red;
+}
+p {
+    color:red;
+    width: 500px;
+    border: 1px solid black;
+}
+body {
+    background-color: black;
+    color:azure;
+    width: 600px;
+    margin: 20px auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(53, 192, 81);
+}
+img {
+    border-radius: 100mm; 
+    display: block;
+    margin: 0 auto;
+}
+h2 {
+    float: left; 
+    margin-right: 20px;
+
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+}
